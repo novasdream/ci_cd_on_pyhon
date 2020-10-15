@@ -33,7 +33,7 @@ Flow of Deployment
 * Successful prediction from deployed flask app in Azure Cloud Shell.
 The output should look similar to this:
 
-![Output sample from an successful deployed prediction app](image/teste-app-deployed.gif?raw=true "Output sample from an successful deployed prediction app")
+![Output sample from an successful deployed prediction app](image/test-app-deployed-min.gif?raw=true "Output sample from an successful deployed prediction app")
 
 * Output of streamed log files from deployed application
 ```
