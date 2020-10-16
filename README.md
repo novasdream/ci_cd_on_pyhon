@@ -31,6 +31,7 @@ Flow of Deployment
 ![All tests passed](image/test-passed.png?raw=true "Test Passed")
 
 * Successful deploy of the project in Azure Pipelines.
+
 ![Successful deploy](image/successful-deploy-azure-pipeline.png?raw=true "Successful deploy")
 
 * Running Azure App Service from Azure Pipelines automatic deployment
