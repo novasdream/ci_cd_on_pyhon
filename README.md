@@ -1,7 +1,10 @@
 # Overview
 
 With this project we will use has an scaffolding with python web service.
-we will learn how to use an complete CI CD. it can be useful to work in another projects.
+we will learn how to use an complete CI CD. 
+
+It can be useful to work in another projects.
+
 
 ## Project Plan
 https://trello.com/b/GI6auPFF/udacity-devops-course
@@ -21,13 +24,17 @@ Flow of Deployment
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 
+![All tests passed](image/passing-tests-min?raw=true "Test Passed")
+
 * Output of a test run
+
 ![All tests passed](image/test-passed.png?raw=true "Test Passed")
 
 * Successful deploy of the project in Azure Pipelines.
 ![Successful deploy](image/successful-deploy-azure-pipeline.png?raw=true "Successful deploy")
 
 * Running Azure App Service from Azure Pipelines automatic deployment
+
 ![Completed with Success azure pipelines](image/azure-pipeline.png?raw=true "Completed with Success azure pipelines")
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.
