@@ -24,7 +24,7 @@ Flow of Deployment
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 
-![All tests passed](image/passing-tests-min?raw=true "Test Passed")
+![All tests passed](image/passing-tests-min.gif?raw=true "Test Passed")
 
 * Output of a test run
 
