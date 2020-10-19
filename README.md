@@ -1,3 +1,7 @@
+# Badges
+
+![Python application test with Github Actions](https://github.com/novasdream/ci_cd_on_pyhon/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg)
+
 # Overview
 
 With this project we will use has an scaffolding with python web service.
