@@ -32,11 +32,20 @@ Flow of Deployment
 
 * Output of a test run
 
-![All tests passed](image/test-passed.png?raw=true "Test Passed")
+![All tests passed](image/test-passed.png?raw=true "Locust Tests")
+
+* Output of a test run
+
+![Locust Tests](image/locust_test.png?raw=true "Test Passed")
 
 * Successful deploy of the project in Azure Pipelines.
 
 ![Successful deploy](image/successful-deploy-azure-pipeline.png?raw=true "Successful deploy")
+
+* Azure Panel
+
+![Working panel](image/panel_working_app_service.png?raw=true "Working panel")
+
 
 * Running Azure App Service from Azure Pipelines automatic deployment
 
@@ -59,7 +68,11 @@ The output should look similar to this:
 
 ## Enhancements
 
-It can be improved to be deployed in stage environment, before production
+At future we can improve building time with an image installed pandas, it need a huge time to download and install.
+
+Include better tests
+
+Include realtime Service monitoring
 
 ## Demo 
 
